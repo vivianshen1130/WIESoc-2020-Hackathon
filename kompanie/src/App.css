@@ -17,13 +17,13 @@ a:hover {
   text-decoration: underline;
 }
 
-<<<<<<< HEAD
-.App-header {
+/* smth screwed up in the merge here between .container and .App-header  */
+.container {
   background-color: #EEC3BB;
   min-height: 100vh;
-=======
-.container {
->>>>>>> main
+}
+
+.App-header { 
   display: flex;
   align-items: center;
   justify-content: center;
